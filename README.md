@@ -4,10 +4,11 @@ This repository contains code for performing text classification using various t
 The goal is to compare the performance of these approaches on different portions of the dataset.
 
 ## Usage
-- linear_classification(portion): Perform linear classification using logistic regression.
-- transformer_classification(portion): Perform transformer fine-tuning for text classification.
-- zeroshot_classification(portion): Perform zero-shot classification using pre-trained models.
-- You can adjust the portion of the dataset used for training and evaluation by passing different values to the functions mentioned above.
+- linear_classification: Perform linear classification using logistic regression.
+- transformer_classification: Perform transformer fine-tuning for text classification.
+- zeroshot_classification: Perform zero-shot classification using pre-trained models.
+
+You can adjust the portion of the dataset used for training and evaluation by passing different values to the functions mentioned above.
 
 ## Results
 The code generates plots to visualize the accuracy of different classification methods as a function of the dataset portion used:
