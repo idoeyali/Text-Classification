@@ -12,9 +12,9 @@ The goal is to compare the performance of these approaches on different portions
 ## Results
 The code generates plots to visualize the accuracy of different classification methods as a function of the dataset portion used:
 
-<img src="result/logistic_reg_result.jpg" alt="Description of Image" width="300" height="300">
-<img src="result/transformer_SC_result.jpg" alt="Description of Image" width="300" height="300">
-<img src="result/zero_shot_result.jpg" alt="Description of Image" width="300" height="300">
+<img src="result/logistic_reg_result.jpg" alt="Description of Image" width="2000" height="300">
+<img src="result/transformer_SC_result.jpg" alt="Description of Image" width="1000" height="1000">
+<img src="result/zero_shot_result.jpg" alt="Description of Image" width="1000" height="200">
 
 ## Dependencies
 - Python 3.x
